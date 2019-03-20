@@ -1,0 +1,57 @@
+/*
+Theme Name: Safari
+Theme URI: http://www.safari.lt
+Author: Webpark
+Author URI: www.webpark.lt
+Description: Created for safari.lt. For your personal theme, please contact us at info@webpark.lt
+Version: 0.1
+License: Attribution 2.0 Generic (CC BY 2.0)
+License URI: https://creativecommons.org/licenses/by/2.0/
+Tags: Webpark, AMP
+Text Domain: safari
+
+This theme, like WordPress, is licensed under the GPL.
+*/
+
+html, ul, li, h1, figure {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+/* Theme Core */
+h1, h2, h3, h4, h5, p {
+	font-family: 'Exo', sans-serif;
+}
+h1 {
+	font-size:60px;
+}
+h2 {
+	font-size:36px;
+}
+h3 {
+	font-size:24px;
+}
+h4 {
+	font-size:18px;
+}
+h5 {
+	font-size:14px;
+}
+p {
+	font-size:16px;
+}
