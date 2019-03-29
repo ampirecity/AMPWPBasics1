@@ -12,8 +12,11 @@ Wordpress theme can be activated on: WP Admin > Appearance > Themes
 ## Author
 
 Mantas Alis,
+
 Creator AMP Design, Development & Tutoring - AMPire.city
+
 Co-Founder Web Design & Development - webpark.lt
+
 Creator Connecting the Dots, A blog for curious- ctdots.eu
 
 ## Other URLs
