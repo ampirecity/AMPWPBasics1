@@ -19,10 +19,13 @@ Creator Connecting the Dots, A blog for curious- ctdots.eu
 ## Other URLs
 
 https://medium.com/@ctdots
+
 https://steemit.com/@ctdots
 
 www.linkedin.com/in/alismantas
+
 https://www.minds.com/ctdots
+
 https://twitter.com/proudcrowd
 
 
